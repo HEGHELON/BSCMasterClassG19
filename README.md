@@ -12,17 +12,23 @@ Anyone Interested in Crypto
 Guide on Installation
 To run Star Farm Token pull the repository from GitHub and install its dependencies.
 
-git clone https://github.com/HEGHELON/BSCMasterClassG19.git
+First fork the repo https://github.com/HEGHELON/BSCMasterClassG19.git
+```
+git clone https://github.com/{Your-Username}/BSCMasterClassG19.git
 cd BSCMasterClassG19
 npm install
+npm -g install truffle
+npm -g install ganache
 npm run start
-To run the contract locally you will need metamask extension installed in your chrome browser, truffle installed and ganache installed globally.
-
+```
+To run the contract locally you will need metamask extension installed in your chrome browser.
+```
 truffle compile
 truffle migrate --reset
+```
 To Issue Tokens to Investors as the Owner of the contract you installed.
 
-truffle exec scripts/issue-token.js
+`truffle exec scripts/issue-token.js`
 
 Work Division
 
