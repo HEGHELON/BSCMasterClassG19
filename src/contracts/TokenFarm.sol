@@ -47,7 +47,7 @@ contract TokenFarm {
         uint balance = stakingBalance[msg.sender];
 
         // Require amoount greater than 0 
-        require(balance > 0, "staking balance cannot be 0");
+        require(balance > 0, "The staking balance cannot be 0");
 
         // Transfer Mock Dai tokens to this contract for staking
         daiToken.transfer(msg.sender, balance);
@@ -60,7 +60,7 @@ contract TokenFarm {
       // 3. Issuing Tokens
       function issueToken() public {
         //   Only owner can call this function
-          require(msg.sender ==owner, "caller must be owner");
+          require(msg.sender == owner, "The caller must be owner");
 
         //   Issue tokens to all stakers
           for(uint i=0; i <stakers.length; i++){
