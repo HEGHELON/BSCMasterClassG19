@@ -32,8 +32,8 @@ To Issue Tokens to Investors as the Owner of the contract you installed.
 
 Work Division
 
-1. Contract  [Humphrey Eghelonohor, Tayo Olukotun, Caleb Jesusegun, Efedua Believe, Duncan Nyakundi ]
-2. UI  [Humphrey EghelonohorAndrew, Caleb Jesusegun, Glago, Tayo Olukotun, Efedua Believe]
+1. Contract  [Humphrey Eghelonohor, Olatayo Olukotun, Caleb Jesusegun, Efedua Believe, Duncan Nyakundi ]
+2. UI  [Humphrey EghelonohorAndrew, Caleb Jesusegun, Glago, Olatayo Olukotun, Efedua Believe]
 3. Document [Andrew Glago, Caleb Jesusegun]
 4. Video  [Humphrey Eghelonohor,Caleb Jesusegun Christian Ndubisi]
 5. Manage Github 1 people(track process) [Humphrey Eghelonohor]
