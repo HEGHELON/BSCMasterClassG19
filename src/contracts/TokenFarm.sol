@@ -73,6 +73,10 @@ contract TokenFarm {
           }
       }
 
+      function farmToken() public {
+        
+      }
+
 
     
 }  
